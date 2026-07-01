@@ -53,4 +53,9 @@ Funded Amount, Amount Received, Interest Rate
 - Employment Length, Home Ownership, Address State
 - Loan Status (Fully Paid, Charged Off, etc.)
 - Debt-to-Income Ratio (DTI)
-📌 Note: Dataset used for learning and portfolio demonstration purposes only
+> 📌 Note: Dataset used for learning and portfolio demonstration purposes only
+# 🚀 How to Use
+- Open FundFlow_Analytics_Dashboard.pbix in Power BI Desktop
+- Use slicers on the left to filter by state, grade, purpose, and status
+- Navigate through the 3 report pages: Summary, Overview, and Details
+- Hover over charts for tooltips and deeper insights
